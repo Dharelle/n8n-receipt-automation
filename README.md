@@ -1,9 +1,9 @@
-# 📸 n8n Receipt Automation
+# 📸 n8n Receipt AI Automation
 
 Automatically capture receipts via WhatsApp, categorize them with AI, and save results to Google Sheets & Google Drive.
 
 ## 🚀 Features
-- Snap a receipt in WhatsApp
+- Capture a receipt in WhatsApp
 - AI categorizes (Expense, Investment, etc.)
 - Data stored in Google Sheets
 - Image stored in Google Drive
